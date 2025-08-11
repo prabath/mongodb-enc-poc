@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/devrev/experimental/prabath/go/enc/utils"
+	"github.com/prabath/mongodb-enc-poc/utils"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

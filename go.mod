@@ -2,10 +2,7 @@ module github.com/prabath/mongodb-enc-poc
 
 go 1.24.0
 
-require (
-	github.com/devrev/experimental/prabath/go/enc v0.0.0-20250730225405-af02bb0ae97d
-	go.mongodb.org/mongo-driver v1.17.4
-)
+require go.mongodb.org/mongo-driver v1.17.4
 
 require (
 	github.com/golang/snappy v1.0.0 // indirect
